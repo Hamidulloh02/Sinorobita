@@ -186,7 +186,7 @@ const langArr = {
         "en":"Deluxe"
     },
     "index_city_title1":{
-        "uz":"Mashhur manzilar",
+        "uz":"Mashhur manzillar",
         "ru":"Популярное направление",
         "en":"Popular Destination"
     },
@@ -236,7 +236,7 @@ const langArr = {
         "en":"7 days"
     },
     "index_city5":{
-        "uz":"Tyanjin",
+        "uz":"Tyantszin",
         "ru":"Тяньцзинь",
         "en":"Tianjin"
     },
@@ -653,6 +653,110 @@ const langArr = {
         "uz":"To'lash",
         "ru":"Платить",
         "en":"Pay"
+    },
+
+
+
+    "bron-shanhai":{
+        "uz":"Shanxay",
+        "ru":"Шанхай",
+        "en":"Shanghai"
+    },
+    "bron-shanhai-text1":{
+        "uz":"Shanxay (xitoycha shànghǎi, pinyin Shànghǎi; zànhae [zãhe], Zånhae) — Xitoyning sharqiy qismidagi Yanszi daryosi deltasida, XXR markaziy boʻysunuvidagi toʻrtta shahardan biri, mamlakatning muhim madaniy markazi, shuningdek dunyodagi eng katta dengiz porti. Bundan tashqari, Shanxay Xitoyning eng yirik moliyaviy markazi (Pekin va Gonkongdan oldinda) va Sharqiy Osiyo va dunyodagi yetakchilardan biri (Nyu-York, London va Tokiodan keyin)",
+        "ru":"Шанха́й (кит. 上海, пиньинь Shànghǎi; у 上海 [zãhe], Zånhae) — расположенный в дельте реки Янцзы на востоке Китая один из четырёх городов центрального подчинения КНР, важный культурный центр страны, а также крупнейший в мире морской порт. Кроме того, Шанхай является крупнейшим финансовым центром Китая (опережая Пекин и Гонконг), и одним из ведущих — в Восточной Азии и мире (после Нью-Йорка, Лондона и Токио)",
+        "en":"Shanghai (Chinese 上海, pinyin Shànghǎi; 上海 [zãhe], Zånhae) is located in the Yangtze River Delta in eastern China, one of the four cities of the central subordination of the PRC, an important cultural center of the country, as well as the world's largest seaport. In addition, Shanghai is the largest financial center in China (ahead of Beijing and Hong Kong), and one of the leading ones in East Asia and the world (after New York, London and Tokyo)"
+    },
+    "bron-shanhai-text2":{
+        "uz":"2020 yilgi aholini ro'yxatga olish ma'lumotlariga ko'ra, Shanxayda 24 870 895 kishi istiqomat qilgan. 2021 yilda Shanxayning tashqi savdo hajmi 10,09 trillion yuanni (1,58 trillion dollar) tashkil etdi, portning yuk aylanmasi 47 million TEU dan oshdi, Pudong xalqaro aeroporti 32,2 milliondan ortiq yo‘lovchiga xizmat ko‘rsatdi.",
+        "ru":"Согласно переписи 2020 года, в Шанхае проживало 24 870 895 человек. По итогам 2021 года объём внешней торговли Шанхая составил 10,09 трлн юаней (1,58 трлн долларов США), грузооборот порта превысил 47 млн TEU, а международный аэропорт Пудун обслужил более 32,2 млн пассажиров.",
+        "en":"According to the 2020 census, there were 24,870,895 people living in Shanghai. In 2021, Shanghai's foreign trade volume amounted to 10.09 trillion yuan ($1.58 trillion), the port's cargo turnover exceeded 47 million TEU, and Pudong International Airport served more than 32.2 million passengers."
+    },
+    "bron-pekin":{
+        "uz":"Pekin",
+        "ru":"Пекин",
+        "en":"Beijing"
+    },
+    "bron-pekin-text1":{
+        "uz":"Pekin (xitoycha chāngīng, pinyin Běijīng, pall. Pekin, soʻzma-soʻz: «Shimoliy poytaxt») — Xitoy Xalq Respublikasining poytaxti va markaziy shaharlaridan biri. Pekin uch tomondan Xebey provinsiyasi bilan o'ralgan va janubi-sharqda Tyantszin bilan chegaradosh.",
+        "ru":"Пеки́н (кит. 北京, пиньинь Běijīng, палл. Бэйцзин, буквально: «Северная столица») — столица и один из городов центрального подчинения Китайской Народной Республики. Пекин с трёх сторон окружён провинцией Хэбэй и граничит с Тяньцзинем на юго-востоке.",
+        "en":"Beijing (Chinese 北京, pinyin Běijīng, pall. Beijing, literally: Northern Capital) is the capital and one of the central cities of the People's Republic of China. Beijing is surrounded on three sides by Hebei Province and borders Tianjin in the southeast."
+    },
+    "bron-pekin-text2":{
+        "uz":"Bu eng yirik temir yo'l va avtomobil kesishmasi va mamlakatning asosiy havo markazlaridan biri. Bundan tashqari, Pekin XXRning siyosiy, ta’lim va madaniy markazi, Shanxay, Guanchjou, Shenchjen va Gonkong esa asosiy iqtisodiy markazlar hisoblanadi. Shu bilan birga, 1990-yillarning oxiridan boshlab u tobora ko'proq tadbirkorlik faoliyatining lokomotivi va innovatsion korxonalarni yaratishning asosiy maydoni rolini o'z zimmasiga oldi.",
+        "ru":"Это крупнейший железно- и автодорожный узел и один из основных авиаузлов страны. Кроме того, Пекин является политическим, образовательным и культурным центром КНР, в то время как главными экономическими центрами считаются Шанхай, Гуанчжоу, Шэньчжэнь и Гонконг. Вместе с тем, начиная с конца 1990-х годов всё больше берёт на себя роль локомотива предпринимательской деятельности и основного поля для создания инновационных предприятий.",
+        "en":"It is the largest railway and road junction and one of the country's main air hubs. In addition, Beijing is the political, educational and cultural center of the PRC, while Shanghai, Guangzhou, Shenzhen and Hong Kong are considered the main economic centers. At the same time, since the late 1990s, it has been increasingly taking on the role of a locomotive of entrepreneurial activity and the main field for creating innovative enterprises."
+    },
+    "bron-pekin-text3":{
+        "uz":"Bu Xitoyning to'rtta qadimiy poytaxtlaridan biri. 2008 yilda shaharda yozgi Olimpiya o'yinlari va yozgi Paralimpiya o'yinlari, 2015 yilda yengil atletika bo'yicha jahon chempionati, 2022 yilda qishki Olimpiya o'yinlari va qishki Paralimpiya o'yinlari bo'lib o'tdi.",
+        "ru":"Входит в число четырёх древних столиц Китая. В 2008 году в городе прошли Летние Олимпийские игры и Летние Паралимпийские игры, в 2015 году — Чемпионат мира по лёгкой атлетике, в 2022 году — Зимние Олимпийские игры и Зимние Паралимпийские игры.",
+        "en":"It is one of the four ancient capitals of China. In 2008, the city hosted the Summer Olympic Games and the Summer Paralympic Games, in 2015 the World Championships in Athletics, in 2022 the Winter Olympic Games and the Winter Paralympic Games."
+    },
+    "bron-pekin-text4":{
+        "uz":"2020 yilgi aholini ro'yxatga olish ma'lumotlariga ko'ra, Pekin 21,893 million aholiga ega edi (eng yuqori darajadagi mamlakat sub'ektlari orasida 26-o'rin).",
+        "ru":"Согласно переписи 2020 года, в Пекине проживало 21,893 млн человек (26-е место среди субъектов страны верхнего порядка).",
+        "en":"According to the 2020 census, Beijing had a population of 21.893 million (26th among the subjects of the country of the highest order)."
+    },
+    "bron-shechjen":{
+        "uz":"Shenchjen",
+        "ru":"Шэньчжэнь",
+        "en":"Shenzhen"
+    },
+    "bron-shechjen-text1":{
+        "uz":"Shenchjen (jer. trad. mángjī, m. y. yutphing: Sam¹zan³, Yale: Sam¹jan³, Kant.-ruscha: Samchan, pinyin: Shēnzhèn, pall.: Shenzhen, soʻzma-soʻz - chuqur chegara) - sub-provinsiya shahri. Guangdong provinsiyasidagi ahamiyati Xitoy Xalq Respublikasining janubida, Gonkong bilan chegaradosh. 2000 yilgi aholini ro'yxatga olish ma'lumotlariga ko'ra aholi soni 7 008 831 kishini, 2010 yilgi aholini ro'yxatga olish ma'lumotlariga ko'ra - 10 357 938 kishini tashkil etdi (BMT ma'lumotlariga ko'ra, Shenchjen aholining o'sishi bo'yicha dunyodagi birinchi beshta shahar qatoriga kiradi). Keng koʻlamli xorijiy va davlat investitsiyalari tufayli qisqa vaqt ichida shahar Pearl daryosi deltasi iqtisodiy rayoni va butun mamlakatning yirik sanoat, moliyaviy va transport markaziga aylandi. Bugungi kunda Shenzhen Xitoyning eng tez rivojlanayotgan shaharlaridan biri, mamlakatning to'rtinchi eng raqobatbardosh shahri, eksport bo'yicha Xitoy shaharlari orasida eng yirik va sarmoya, yangi texnologiyalar va biznes madaniyatini jalb qilish uchun o'ziga xos darvoza bo'lib xizmat qilmoqda.",
+        "ru":"Шэньчжэ́нь (иер. трад. 深圳, упр. 深圳, ютпхин: Sam¹zan³, йель: Sam¹jan³, кант.-рус.: Самчань, пиньинь: Shēnzhèn, палл.: Шэньчжэнь, буквально — «глубокая межа») — город субпровинциального значения в провинции Гуандун на юге Китайской Народной Республики, граничит с Гонконгом. Население по переписи 2000 года составляло 7 008 831 человек, а согласно переписи 2010 года — 10 357 938 человек (по данным ООН, Шэньчжэнь входит в первую пятёрку городов мира по темпам прироста населения). Благодаря масштабным иностранным и государственным инвестициям за довольно короткий период времени город превратился в крупный промышленный, финансовый и транспортный центр экономического региона дельты Жемчужной реки и всей страны в целом. Сегодня Шэньчжэнь является одним из наиболее динамично развивающихся городов Китая, четвёртым из числа наиболее конкурентоспособных городов страны, крупнейшим среди китайских городов по объёму экспорта и служит своеобразными воротами для привлечения инвестиций, новых технологий и культуры ведения бизнеса.",
+        "en":"Shenzhen (Jer. trad. 深圳, ex. 深圳, yutphing: Sam¹zan³, Yale: Sam¹jan³, Kant.-Russian: Samchan, pinyin: Shēnzhèn, pall.: Shenzhen, literally - “deep boundary”) is a city of sub-provincial significance in the province Guangdong is in the south of the People's Republic of China, bordering Hong Kong. The population according to the 2000 census was 7,008,831 people, and according to the 2010 census - 10,357,938 people (according to the UN, Shenzhen is among the top five cities in the world in terms of population growth). Thanks to large-scale foreign and government investments, in a fairly short period of time, the city has become a major industrial, financial and transport center of the Pearl River Delta economic region and the whole country as a whole. Today, Shenzhen is one of the fastest growing cities in China, the fourth most competitive city in the country, the largest among Chinese cities in terms of exports and serves as a kind of gateway to attract investment, new technologies and business culture."
+    },
+    "bron-shechjen-text2":{
+        "uz":"Aslida, shahar 1979 yilda Baoan okrugi o'rnida tashkil etilgan bo'lib, Shenzhen deb o'zgartirildi, ammo shahar posyolkasini bu hududda 4-asrdan beri kuzatish mumkin. 2008 yilda Shenchjen YuNESKO tomonidan Dizaynning ijodiy shahri sifatida tanlandi, 2011 yilda u XXVI Jahon yozgi Universiadasiga mezbonlik qildi, buning natijasida u o'z infratuzilmasini sezilarli darajada yangiladi va kengaytirdi. Shenchjen birinchi navbatda o'zining ko'p qavatli arxitekturasi, tematik parklari, sanoat ko'rgazmalari va, albatta, elektronika va elektrotexnika sanoatining eng yirik markazlaridan biri sifatida mashhur (masalan, mashhur iPhone va iPad'larning aksariyati shu erda ishlab chiqariladi).",
+        "ru":"Фактически город был основан в 1979 году на месте уезда Баоань, переименованного в Шэньчжэнь, но городское поселение прослеживается на данной территории с IV века. В 2008 году Шэньчжэнь был выбран ЮНЕСКО «Творческим городом дизайна», в 2011 году принимал XXVI Всемирную летнюю Универсиаду, благодаря которой существенно обновил и расширил свою инфраструктуру. Шэньчжэнь знаменит, прежде всего, своей высотной архитектурой, тематическими парками, отраслевыми выставками и, конечно же, как один из крупнейших центров электронной и электротехнической промышленности (например, большая часть популярных iPhone и iPad производится именно здесь).",
+        "en":"In fact, the city was founded in 1979 on the site of Baoan County, renamed Shenzhen, but the urban settlement can be traced in this area since the 4th century. In 2008, Shenzhen was chosen by UNESCO as a Creative City of Design in 2011 it hosted the XXVI World Summer Universiade, thanks to which it significantly upgraded and expanded its infrastructure. Shenzhen is famous primarily for its high-rise architecture, theme parks, industry exhibitions and, of course, as one of the largest centers of the electronics and electrical industry (for example, most of the popular iPhones and iPads are made here)."
+    },
+    "bron-shechjen-text3":{
+        "uz":"Tech Insider (Business Insider boʻlimi) maʼlumotlariga koʻra, Shenchjen dunyodagi texnologik jihatdan eng rivojlangan shaharlardan biridir. 2019 yil holatiga ko'ra, Shenchjen biznes qilish uchun eng yaxshi Xitoy shaharlari orasida faqat Guanchjoudan keyin ikkinchi o'rinni egalladi.",
+        "ru":"Согласно рейтингу сайта Tech Insider (подразделение портала Business Insider), Шэньчжэнь входит в число самых технологичных городов мира. По состоянию на 2019 год Шэньчжэнь занимал второе место среди лучших китайских городов для ведения бизнеса, уступив лишь Гуанчжоу.",
+        "en":"According to Tech Insider (a division of Business Insider), Shenzhen is one of the most technologically advanced cities in the world. As of 2019, Shenzhen ranked second among the best Chinese cities to do business, behind only Guangzhou."
+    },
+    "bron-guanjou":{
+        "uz":"Guanchjou",
+        "ru":"Гуанчжоу",
+        "en":"Guangzhou"
+    },
+    "bron-guanjou-text1":{
+        "uz":"Guanchjou (jer. trad. chàngāng, s. yàng, yutphing: Gwong2zau1, Kant.-rus. Kuonchau, pinyin: Guǎngzhōu, pall.: Guanchjou; ilgari Kanton nomi bilan mashhur) — Xitoy Xalq Respublikasining subprovintsiyaviy shahri, Guangdong provinsiyasining poytaxti.",
+        "ru":"Гуанчжо́у (иер. трад. 廣州, упр. 广州, ютпхин: Gwong2zau1, кант.-рус.: Куончау, пиньинь: Guǎngzhōu, палл.: Гуанчжоу; ранее был известен как Канто́н) — город субпровинциального значения Китайской Народной Республики, столица провинции Гуандун.",
+        "en":"Guangzhou (Jer. trad. 廣州, ex. 广州, yutphing: Gwong2zau1, Kant.-Russian: Kuonchau, pinyin: Guǎngzhōu, pall.: Guangzhou; formerly known as Canton) is a sub-provincial city of the People's Republic of China, the capital of Guangdong Province ."
+    },
+    "bron-guanjou-text2":{
+        "uz":"Janubiy Xitoyning siyosiy, iqtisodiy, ilmiy, texnik, ta'lim, madaniy va transport markazi. 14 milliondan ortiq aholiga ega Guanchjou Xitoyning Shanxay va Pekindan keyin uchinchi yirik shahri hisoblanadi. Shaharning quruqlikdagi maydoni 7434,4 km² va dengizda 744 km². YaIM 2,823 trillion yuanni yoki aholi jon boshiga 151 162 yuanni tashkil qiladi.",
+        "ru":"Политический, экономический, научно-технический, образовательный, культурный и транспортный центр южного Китая. Гуанчжоу с населением свыше 14 млн человек является третьим по величине городом Китая, уступая лишь Шанхаю и Пекину. Площадь города — 7434,4 км² на суше и 744 км² на море. ВВП составляет 2,823 трлн юаней, или 151 162 юаня на душу населения.",
+        "en":"Political, economic, scientific-technical, educational, cultural and transport center of South China. Guangzhou with a population of over 14 million people is the third largest city in China, second only to Shanghai and Beijing. In Ploshchad Gorod, there are 7434.4 km² of water and 744 km² of water. VVP spends 2,823 trillion yuan, 151,162 yuan per year."
+    },
+    "bron-tyanjin":{
+        "uz":"Tyantszin",
+        "ru":"Тяньцзинь",
+        "en":"Tianjin"
+    },
+    "bron-tyanjin-text1":{
+        "uz":"Tyantszin (xitoycha: pinyin Tiānjīn) — Xitoy Xalq Respublikasining toʻrtta markaziy munitsipalitetlaridan biri. Tyantszin shahri materik Xitoyda uchinchi yirik shahardir. Aholisi - 13,866 million kishi (2020 yilgi aholini ro'yxatga olish ma'lumotlariga ko'ra), maydoni - 11,946 km², YaIM - 1,4 trillion yuan (2020).",
+        "ru":"Тяньцзи́нь (кит. упр. 天津, пиньинь Tiānjīn) — один из четырёх муниципалитетов центрального подчинения Китайской Народной Республики. Городская зона Тяньцзиня является третьей по величине в континентальном Китае. Население — 13,866 млн человек (по переписи 2020 года), площадь — 11 946 км², ВВП — 1,4 трлн юаней (2020).",
+        "en":"Tianjin (Chinese: 天津, pinyin Tiānjīn) is one of the four central municipalities of the People's Republic of China. The urban area of Tianjin is the third largest in mainland China. Population - 13.866 million people (according to the 2020 census), area - 11,946 km², GDP - 1.4 trillion yuan (2020)."
+    },
+    "bron-chengdu":{
+        "uz":"Chengdu",
+        "ru":"Чэнду",
+        "en":"Chengdu"
+    },
+    "bron-chengdu-text1":{
+        "uz":"Chengdu (xitoycha: pinyin Chéngdū) — Xitoyning janubi-gʻarbiy qismida, Mintszyan daryosi vodiysida, Sichuan provinsiyasi hukumatining qarorgohi boʻlgan subprovintsiya shahri.",
+        "ru":"Чэнду́ (кит. упр. 成都, пиньинь Chéngdū) — город субпровинциального значения в юго-западном Китае, в долине реки Миньцзян, место пребывания властей провинции Сычуань.",
+        "en":"Chengdu (Chinese: 成都, pinyin Chéngdū) is a sub-provincial city in southwestern China, in the Minjiang River valley, seat of the Sichuan provincial government."
+    },
+    "bron-chengdu-text2":{
+        "uz":"Shahar timsoli 2001 yilda shahar ichida Jinsha madaniyatini qazish jarayonida topilgan Oltin quyosh qushlari qadimiy oltin diskidir.",
+        "ru":"Эмблемой города является древний золотой диск «Птицы золотого солнца», найденный в 2001 году при раскопках культуры Цзиньша в черте города.",
+        "en":"The emblem of the city is the ancient golden disc Birds of the Golden Sun, found in 2001 during excavations of the Jinsha culture within the city."
     }
+
     
 }

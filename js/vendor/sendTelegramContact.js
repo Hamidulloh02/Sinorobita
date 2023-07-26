@@ -11,7 +11,7 @@ const form = document.querySelector("#contactForm")
 
 form.addEventListener("submit",(e) => {
     if(myname.value != ""){
-    var message = `<b>Text:</b>${text.value} %0A <b>Name:</b> ${myname.value} %0A <b>Email:</> ${email.value}`;
+    var message = `<b>Contact</b> %0A <b>Text:</b>${text.value} %0A <b>Name:</b> ${myname.value} %0A <b>Phone number:</> ${email.value}`;
     
     let token = "6380737162:AAHKL3KxyRVHzqw6gPjVGi8Mm44zG7gO0N0";
     let chat_id = -1001949310369;
@@ -27,4 +27,5 @@ form.addEventListener("submit",(e) => {
     email.value = " "
     subject.value = " "
 })
+
 
