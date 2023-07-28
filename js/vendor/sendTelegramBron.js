@@ -9,6 +9,7 @@ var bronbtn = document.getElementById("bronbtn")
 
 
 bronbtn.addEventListener('click',()=> {
+
        var message = `<b>Бронировать</b> %0A <b>Имя:</b>${bronname.value} %0A <b>Номер телефона:</b> ${bronnumber.value} %0A <b>От:</b> ${brondan.value} %0A <b>До:</b> ${brongacha.value}`;
         
         let token = "6380737162:AAHKL3KxyRVHzqw6gPjVGi8Mm44zG7gO0N0";

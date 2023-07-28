@@ -73,6 +73,10 @@ body{
   height: 20px;
   border-top: 3px solid yellow;
 }
+.bronpay{
+  font-size: 20px;
+  font-weight: 600;
+}
 .text-bron{
   font-size: 20px;
   line-height: 35px;
